@@ -5,6 +5,7 @@ Installation:
   2. cd translator/
   2. python3 install -r requirements.txt
   
+  
 Usage:
   1. python3 main.py
   2. File will open, paste your text there 
